@@ -1,0 +1,31 @@
+{
+  "name": "blocksort",
+  "version": "1.0.0",
+  "description": "A set of sorting algorithms in Node - Bubble, Merge, Heap, Insertion, RadixLSD and more... ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KGibb8/blocksort.git"
+  },
+  "keywords": [
+    "sort",
+    "node",
+    "merge",
+    "bubble",
+    "radix",
+    "insertion",
+    "lsd"
+  ],
+  "author": "kyphae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KGibb8/blocksort/issues"
+  },
+  "homepage": "https://github.com/KGibb8/blocksort#readme"
+}
