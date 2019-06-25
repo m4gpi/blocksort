@@ -1,4 +1,4 @@
-# Sortify
+# Blocksort 
 
 A set of sorting algorithms, with benchmarks in `/test` to help you pick the one that suits your needs...
 
