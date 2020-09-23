@@ -9,7 +9,7 @@ module.exports = {
   bubble,
   merge,
   heap,
-  insertion,
+  insert,
   radixLSD,
   radixMSD
 }
